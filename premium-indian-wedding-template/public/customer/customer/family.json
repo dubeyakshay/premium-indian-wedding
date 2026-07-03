@@ -1,0 +1,18 @@
+{
+  "bride": {
+    "members": [
+      { "relation": "Father", "name": "Mr. Rajesh Sharma" },
+      { "relation": "Mother", "name": "Mrs. Sunita Sharma" },
+      { "relation": "Brother", "name": "Mr. Rohit Sharma" },
+      { "relation": "Grandmother", "name": "Mrs. Kamala Devi" }
+    ]
+  },
+  "groom": {
+    "members": [
+      { "relation": "Father", "name": "Mr. Vikram Patel" },
+      { "relation": "Mother", "name": "Mrs. Meera Patel" },
+      { "relation": "Sister", "name": "Ms. Priya Patel" },
+      { "relation": "Grandfather", "name": "Mr. Harish Patel" }
+    ]
+  }
+}
