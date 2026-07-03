@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Next.js / build output
+.next/
+**/.next/
+out/
+**/out/
+dist/
+**/dist/
+build/
+**/build/
+
+# Environment files
+.env
+**/.env
+.env.*
+**/.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# Local temp/database files
+*.db
+*.db-journal
+.tmp/
+**/.tmp/
+tmp/
+**/tmp/
+temp/
+**/temp/
+
+# Package manager lockfiles (optional)
+package-lock.json
+**/package-lock.json
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Test/coverage output
+coverage/
+**/coverage/
+
+# Deployment
+.vercel/
+**/.vercel/

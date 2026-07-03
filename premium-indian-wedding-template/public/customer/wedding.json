@@ -1,13 +1,13 @@
 {
   "bride": {
-    "firstName": "Ananya",
+    "firstName": "Ankita",
     "lastName": "Sharma",
     "parentage": "Daughter of Mr. Rajesh & Mrs. Sunita Sharma",
     "bio": "A spirited soul who believes in the magic of love, laughter, and marigolds.",
     "image": "https://images.pexels.com/photos/29153204/pexels-photo-29153204.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=800&w=600"
   },
   "groom": {
-    "firstName": "Arjun",
+    "firstName": "Aman",
     "lastName": "Patel",
     "parentage": "Son of Mr. Vikram & Mrs. Meera Patel",
     "bio": "An old soul with a modern heart, ready to begin the most beautiful chapter.",
@@ -17,9 +17,9 @@
   "tagline": "Two souls, one beautiful journey",
   "quote": "Whatever our souls are made of, his and mine are the same.",
   "quoteAuthor": "Emily Brontë",
-  "hashtag": "#AnanyaWedsArjun",
+  "hashtag": "#AnkitaWedsAman",
   "rsvpDeadline": "2026-01-31",
-  "footerMessage": "Made with ❤️ for Ananya & Arjun",
+  "footerMessage": "Made with ❤️ for Ankita & Aman",
   "events": [
     {
       "id": "mehndi",
@@ -53,7 +53,7 @@
       "venue": "The Nizam's Durbar Hall",
       "address": "Chowmahalla Palace, Hyderabad",
       "mapUrl": "https://maps.google.com",
-      "description": "The sacred union of Ananya & Arjun. Witness the traditional rituals as two hearts become one.",
+      "description": "The sacred union of Ankita & Aman. Witness the traditional rituals as two hearts become one.",
       "image": "https://images.pexels.com/photos/30184678/pexels-photo-30184678.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
       "dressCode": "Traditional Indian Attire"
     },
@@ -78,8 +78,8 @@
     "mapUrl": "https://maps.google.com"
   },
   "seo": {
-    "title": "Ananya & Arjun — Wedding Invitation",
-    "description": "You are cordially invited to the wedding celebration of Ananya Sharma & Arjun Patel. Join us for this beautiful journey of love.",
+    "title": "Ankita & Aman — Wedding Invitation",
+    "description": "You are cordially invited to the wedding celebration of Ankita Sharma & Aman Patel. Join us for this beautiful journey of love.",
     "ogImage": "https://images.pexels.com/photos/35069916/pexels-photo-35069916.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200"
   },
   "images": {
