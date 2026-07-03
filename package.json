@@ -1,0 +1,12 @@
+{
+  "name": "premium-indian-wedding",
+  "private": true,
+  "workspaces": [
+    "premium-indian-wedding-template"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=premium-indian-wedding-template",
+    "build": "npm run build --workspace=premium-indian-wedding-template",
+    "start": "npm run start --workspace=premium-indian-wedding-template"
+  }
+}
