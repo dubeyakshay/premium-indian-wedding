@@ -4,5 +4,11 @@
       "src": "premium-indian-wedding-template/package.json",
       "use": "@vercel/next"
     }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/premium-indian-wedding-template/$1"
+    }
   ]
 }
